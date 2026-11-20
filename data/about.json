@@ -1,0 +1,34 @@
+{
+ "region": "서울 서대문구 홍제동",
+ "nameEn": "Seoul Women's College of Nursing",
+ "added": "2026-11-01T02:27",
+ "rank": 318,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "SMU",
+   "campus": "상명대학교 서울캠퍼스",
+   "km": 0.9
+  },
+  {
+   "code": "MJC",
+   "campus": "명지전문대학",
+   "km": 2.4
+  },
+  {
+   "code": "BAEWHA",
+   "campus": "배화여자대학교",
+   "km": 2.7
+  },
+  {
+   "code": "MJU",
+   "campus": "명지대학교 인문캠퍼스",
+   "km": 2.9
+  },
+  {
+   "code": "SCU",
+   "campus": "서울기독대학교",
+   "km": 3.1
+  }
+ ]
+}
